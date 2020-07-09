@@ -77,7 +77,6 @@
 
 <script>
 import PasswordReset from "@/components/PasswordReset";
-
 export default {
   components: {
     PasswordReset
@@ -122,6 +121,3 @@ export default {
   }
 };
 </script>
-
-<style lang="scss" scoped>
-</style>
